@@ -1,4 +1,8 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
+## NAME: NITHIN BILGATES C
+## REGISTER NO: 2305001022
+
+
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
@@ -68,6 +72,7 @@ print("Decrypted Message:", decrypted)
 
 ## Output:
 
+<img width="585" height="217" alt="Screenshot 2026-06-06 215419" src="https://github.com/user-attachments/assets/d3075ef8-1fca-491c-b636-4b5cac4b1207" />
 
 
 ## Result:
